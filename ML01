@@ -1,0 +1,9 @@
+### 🗓️ Day 1 – Model Evaluation & Cross Validation 
+**Date:** October 12, 2025 
+
+**Topics Covered:** 
+- Studied **Model Evaluation** methods in Machine Learning
+- Learned about **Cross-Validation**, its **types**, and specifically **K-Fold Cross Validation**
+- Implemented **K-Fold Cross Validation** in **Python** using scikit-learn 
+
+**Reflection:** > Learned how cross-validation improves model reliability by reducing overfitting and providing a better estimate of model performance.
