@@ -6,6 +6,6 @@ A research-driven documentation of my self-learning journey in Artificial Intell
 
 | Day | Topic | Branch Link |
 |-----|-------|--------------|
-| 1 | Model Evaluation & Cross Validation | [View Branch](https://github.com/KartikSaroop-AI/AI-Research-Journey-by-KartikSaroop/blob/Model-Evaluation/Model%20Evaluation%20-%20Cross%20Validation.docx) |
+| 1 | Model Evaluation & Cross Validation | [View Branch](https://github.com/KartikSaroop-AI/AI-Research-Journey-by-KartikSaroop/blob/Model-Evaluation/Model%20Evaluation%20-%20Cross%20Validation)
 
 ---
