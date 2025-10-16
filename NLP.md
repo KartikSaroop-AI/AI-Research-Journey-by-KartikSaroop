@@ -1,3 +1,9 @@
+# 🧭 Natural Language Processing (NLP) – Learning Progress
+
+This file documents my daily learning and experiments in **Natural Language Processing**, as part of my AI-Research-Journey-by-KartikSaroop.  
+Each section below links to a specific topic or day.
+
+
 Introduction to NLP Basics
 ### 📚 What I Learned  
 - Explored the **basics of NLP (Natural Language Processing)**  
