@@ -2,6 +2,10 @@
 
 This file documents my daily learning and experiments in **Natural Language Processing**, as part of my AI-Research-Journey-by-KartikSaroop.  
 Each section below links to a specific topic or day.
+# 🔬 Experiment 1 – NLP Foundations (Tokenization, Stemming, Lemmatization)
+# 🔬 Experiment 2 – Text Classification using Naive Bayes 
+
+
 
 
 Introduction to NLP Basics
