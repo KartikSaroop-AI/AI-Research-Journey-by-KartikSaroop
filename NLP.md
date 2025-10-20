@@ -4,6 +4,8 @@ This file documents my daily learning and experiments in **Natural Language Proc
 Each section below links to a specific topic or day.
 # 🔬 Experiment 1 – NLP Foundations (Tokenization, Stemming, Lemmatization)
 # 🔬 Experiment 2 – Text Classification using Naive Bayes 
+### 🔗 Resources for Experiment 2
+- 💻 [Python Implementation](Experiments/Experiment-2-Text-Classification-NaiveBayes/Text_Classification_NaiveBayes.py)
 
 
 
