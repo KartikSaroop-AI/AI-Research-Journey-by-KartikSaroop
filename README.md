@@ -4,8 +4,5 @@ A research-driven documentation of my self-learning journey in Artificial Intell
 ---
 ## 📈 Learning Progress
 
-| Day | Topic | Branch Link |
-|-----|-------|--------------|
-| 1 | Model Evaluation & Cross Validation | [View Branch](https://github.com/KartikSaroop-AI/AI-Research-Journey-by-KartikSaroop/tree/day-1-model-evaluation) |
 
 ---
