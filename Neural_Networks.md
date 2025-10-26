@@ -28,5 +28,5 @@ Each experiment includes:
 Implemented a fully connected neural network on the MNIST dataset using **TensorFlow/Keras**.  
 Explored concepts of feedforward networks, activation functions, loss computation, and performance metrics.
 
-#### 🔗 Related File
+#### 🔗 Related File  
 - 🧮 [Jupyter Notebook: mnist.ipynb](mnist.ipynb)
