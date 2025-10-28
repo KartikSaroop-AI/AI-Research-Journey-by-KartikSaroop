@@ -36,6 +36,8 @@ Explored concepts of feedforward networks, activation functions, loss computatio
 - **EarlyStopping** to prevent overfitting by halting training when validation performance stops improving.  
 - **ModelCheckpoint** to automatically save the best-performing model during training.
 
+🧮 **Jupyter Notebook** | Implementation of TensorFlow callbacks (EarlyStopping & ModelCheckpoint) on MNIST dataset. | [mnist_callbacks.ipynb](mnist_callbacks.ipynb) |
+
   ### 💻 Implementation & Files  
 | Type | Description | Link |
 |:-----|:-------------|:------|
