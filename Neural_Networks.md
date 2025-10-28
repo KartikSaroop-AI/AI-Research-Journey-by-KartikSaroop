@@ -30,3 +30,14 @@ Explored concepts of feedforward networks, activation functions, loss computatio
 
 #### 🔗 Related File  
 - 🧮 [Jupyter Notebook: mnist.ipynb](mnist.ipynb)
+
+## 🧩 Experiment 2 – TensorFlow Callbacks (EarlyStopping & ModelCheckpoint) 
+**TensorFlow callbacks** for optimizing model training — specifically:  
+- **EarlyStopping** to prevent overfitting by halting training when validation performance stops improving.  
+- **ModelCheckpoint** to automatically save the best-performing model during training.
+
+  ### 💻 Implementation & Files  
+| Type | Description | Link |
+|:-----|:-------------|:------|
+| 🧾 **Word Notes** | Theoretical explanation of TensorFlow callbacks and implementation insights. | [Tensorflow callbacks.docx](Docs/Tensorflow%20callbacks.docx) |
+| 🧮 **Jupyter Notebook** | Practical implementation of EarlyStopping & ModelCheckpoint on MNIST. | [mnist_callbacks.ipynb](Notebooks/mnist_callbacks.ipynb) |
