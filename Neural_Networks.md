@@ -38,5 +38,5 @@ Explored concepts of feedforward networks, activation functions, loss computatio
 
 ### 💻 Implementation & Files  
 🧮 **Jupyter Notebook** | Implementation of TensorFlow callbacks (EarlyStopping & ModelCheckpoint) on MNIST dataset. | [mnist_callbacks.ipynb](mnist_callbacks.ipynb) |
-| 🧾 **Notes** | Theoretical explanation of TensorFlow callbacks and implementation insights. | [Tensorflow callbacks.pdf](TensorFlow_Callbacks.pdf.pdf) |
+🧾 **Notes** | Theoretical explanation of TensorFlow callbacks and implementation insights. | [Tensorflow callbacks.pdf](TensorFlow_Callbacks.pdf.pdf) |
 
