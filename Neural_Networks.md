@@ -56,7 +56,7 @@ A fully connected neural network trained on MNIST to establish a baseline for co
 Implemented callback functions to optimize training efficiency and prevent overfitting.  
 - 🎯 **Goal:** Use `EarlyStopping` and `ModelCheckpoint` in TensorFlow/Keras.  
 - 📓 [mnist_callbacks.ipynb](Notebooks/mnist_callbacks.ipynb)  
-- 📘 [Notes (PDF)](Docs/TensorFlow_Callbacks.pdf)
+- 📘 [Notes (PDF)](TensorFlow_Callbacks.pdf.pdf)
 
 ---
 
