@@ -58,7 +58,12 @@ Implemented callback functions to optimize training efficiency and prevent overf
 - 📓 [mnist_callbacks.ipynb](Experiments/mnist_callbacks.ipynb)  
 - 📘 [Notes (PDF)](TensorFlow_Callbacks.pdf.pdf)
 
-📄 **Article:** [“How Do Recurrent Neural Networks Remember? A Journey Through Time” (PDF)](Docs/How_Do_RNNs_Remember.pdf)
+<small>
+
+### 📄 Featured Research Article  
+
+**🧾 “How Do Recurrent Neural Networks Remember? — A Journey Through Time”** &nbsp; 📘 [Read PDF](Docs/How_Do_RNNs_Remember.pdf)
+</small>
 
 ## 5️⃣ LSTM & GRU Networks
 - Understanding vanishing gradients and how LSTM/GRU overcome them.
