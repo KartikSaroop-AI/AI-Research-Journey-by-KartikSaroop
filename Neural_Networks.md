@@ -49,7 +49,7 @@ This file serves as a structured collection of my **daily experiments**, **hands
 #### ⚙️ **Experiment 1 – MNIST Classification (Baseline)**  
 A fully connected neural network trained on MNIST to establish a baseline for comparison with RNN-based models.  
 - 🎯 **Goal:** Understand data representation without sequential modeling.  
-- 📓 [mnist.ipynb](Notebooks/mnist.ipynb)
+- 📓 [mnist.ipynb](mnist.ipynb)
 
 
 #### ⚙️ **Experiment 2 – TensorFlow Callbacks (EarlyStopping & ModelCheckpoint)**  
