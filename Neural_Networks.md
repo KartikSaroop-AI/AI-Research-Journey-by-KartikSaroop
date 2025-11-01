@@ -60,9 +60,8 @@ Implemented callback functions to optimize training efficiency and prevent overf
 
 <small>
 
-### 📄 Featured Research Article  
-
-**🧾 “How Do Recurrent Neural Networks Remember? — A Journey Through Time”** &nbsp; 📘 [Read PDF](How Do Recurrent Neural Networks Remember.pdf)
+📄 **Featured Research Article**  
+🧾 “How Do Recurrent Neural Networks Remember? — A Journey Through Time” &nbsp; 📘 [Read PDF](How_Do_Recurrent_Neural_Networks_Remember.pdf)
 </small>
 
 ## 5️⃣ LSTM & GRU Networks
