@@ -72,6 +72,9 @@ Implemented callback functions to optimize training efficiency and prevent overf
 
 </small>
 
+
+---
+
 ## 5️⃣ LSTM & GRU Networks
 - Understanding vanishing gradients and how LSTM/GRU overcome them.
 - Planned notebooks: language modeling and temperature-based text generation.
