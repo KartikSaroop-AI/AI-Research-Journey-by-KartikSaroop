@@ -58,12 +58,12 @@ Implemented callback functions to optimize training efficiency and prevent overf
 - 📓 [mnist_callbacks.ipynb](Experiments/mnist_callbacks.ipynb)  
 - 📘 [Notes (PDF)](TensorFlow_Callbacks.pdf.pdf)
 
-<small>
+
 
 📄 **Featured Research Article**  
 
  01:** 🧾 *“How Do Recurrent Neural Networks Remember? — A Journey Through Time”* &nbsp; 📘  [Read PDF](How_Do_Recurrent_Neural_Networks_Remember.pdf)
-</small>
+ 02:** 🧾 *“Backpropagation Through Time (BPTT): How RNNs Learn from the Past”*
 
 ## 5️⃣ LSTM & GRU Networks
 - Understanding vanishing gradients and how LSTM/GRU overcome them.
