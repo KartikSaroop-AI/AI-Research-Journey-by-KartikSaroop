@@ -61,7 +61,7 @@ Implemented callback functions to optimize training efficiency and prevent overf
 
 ### 🧩 Experiment 3 – Sentiment Analysis using LSTM  
 Implemented a **Long Short-Term Memory (LSTM)** based neural network to perform **sentiment analysis** on textual data, exploring how sequential models capture contextual dependencies.  
-
+- 📓 [Sentiment_analysis_LSTM.ipynb](Sentiment_analysis_LSTM.ipynb) 
 
 ### 📄 Featured Research Articles  
 
