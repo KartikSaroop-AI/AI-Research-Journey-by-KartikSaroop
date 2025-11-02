@@ -59,6 +59,9 @@ Implemented callback functions to optimize training efficiency and prevent overf
 - 📘 [Notes (PDF)](TensorFlow_Callbacks.pdf.pdf)
 
 
+### 🧩 Experiment 3 – Sentiment Analysis using LSTM  
+Implemented a **Long Short-Term Memory (LSTM)** based neural network to perform **sentiment analysis** on textual data, exploring how sequential models capture contextual dependencies.  
+
 
 ### 📄 Featured Research Articles  
 
